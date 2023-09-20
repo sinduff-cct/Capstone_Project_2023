@@ -1,0 +1,384 @@
+id_student,gender,highest_education,age_band,studied_credits,final_result,tenure_band
+11391,0,HE Qualification,55<=,240,Pass,5-10
+28400,1,HE Qualification,35-55,60,Pass,16 or more
+30268,1,A Level or Equivalent,35-55,60,Withdrawn,11-15
+31604,1,A Level or Equivalent,35-55,60,Pass,11-15
+32885,1,Lower Than A Level,0-35,60,Pass,5-10
+38053,0,A Level or Equivalent,35-55,60,Pass,5-10
+45462,0,HE Qualification,0-35,60,Pass,16 or more
+45642,1,A Level or Equivalent,0-35,120,Pass,11-15
+52130,1,A Level or Equivalent,0-35,90,Pass,11-15
+53025,0,Post Graduate Qualification,55<=,60,Pass,0-5
+57506,0,Lower Than A Level,35-55,60,Pass,5-10
+58873,1,A Level or Equivalent,0-35,60,Pass,0-5
+59185,0,Lower Than A Level,35-55,60,Pass,0-5
+62155,1,HE Qualification,0-35,60,Pass,11-15
+63400,0,Lower Than A Level,35-55,60,Pass,5-10
+65002,1,A Level or Equivalent,0-35,60,Withdrawn,0-5
+70464,1,A Level or Equivalent,35-55,60,Pass,0-5
+71361,0,HE Qualification,35-55,60,Pass,11-15
+74372,0,A Level or Equivalent,35-55,150,Fail,11-15
+75091,0,A Level or Equivalent,35-55,60,Pass,16 or more
+77367,0,A Level or Equivalent,0-35,60,Pass,5-10
+91265,0,HE Qualification,0-35,60,Pass,16 or more
+94961,0,Lower Than A Level,35-55,60,Withdrawn,11-15
+98094,0,Lower Than A Level,35-55,60,Pass,11-15
+100893,0,A Level or Equivalent,0-35,60,Pass,16 or more
+101781,0,Lower Than A Level,35-55,60,Pass,11-15
+102806,0,A Level or Equivalent,0-35,60,Pass,16 or more
+102952,0,HE Qualification,0-35,60,Pass,0-5
+104476,0,Post Graduate Qualification,35-55,60,Pass,0-5
+106247,0,HE Qualification,35-55,60,Withdrawn,16 or more
+106577,0,Lower Than A Level,0-35,60,Pass,5-10
+110175,0,HE Qualification,35-55,60,Pass,5-10
+111717,1,HE Qualification,35-55,60,Pass,5-10
+113295,0,Lower Than A Level,35-55,60,Pass,16 or more
+114017,1,Post Graduate Qualification,35-55,60,Pass,0-5
+114999,0,HE Qualification,35-55,60,Pass,11-15
+116541,0,HE Qualification,0-35,60,Pass,16 or more
+116692,0,A Level or Equivalent,35-55,60,Pass,5-10
+118983,0,HE Qualification,0-35,120,Pass,0-5
+123044,0,A Level or Equivalent,35-55,60,Pass,16 or more
+127582,1,A Level or Equivalent,0-35,180,Pass,11-15
+129955,0,A Level or Equivalent,0-35,60,Withdrawn,5-10
+132976,1,Lower Than A Level,35-55,120,Pass,11-15
+134143,1,A Level or Equivalent,35-55,60,Distinction,5-10
+135335,1,Lower Than A Level,0-35,180,Withdrawn,11-15
+135400,1,Lower Than A Level,35-55,60,Withdrawn,0-5
+137873,0,A Level or Equivalent,35-55,60,Pass,11-15
+141355,1,A Level or Equivalent,0-35,240,Pass,16 or more
+141377,0,A Level or Equivalent,0-35,345,Withdrawn,0-5
+142326,1,A Level or Equivalent,35-55,60,Pass,16 or more
+144801,1,HE Qualification,35-55,60,Pass,5-10
+145130,0,HE Qualification,0-35,120,Pass,0-5
+146188,1,A Level or Equivalent,0-35,60,Fail,0-5
+147756,0,Lower Than A Level,0-35,120,Fail,5-10
+147793,1,Lower Than A Level,0-35,90,Withdrawn,5-10
+148993,1,A Level or Equivalent,35-55,60,Withdrawn,0-5
+151358,1,A Level or Equivalent,0-35,150,Pass,16 or more
+155550,0,A Level or Equivalent,35-55,420,Pass,11-15
+155854,1,A Level or Equivalent,35-55,60,Pass,0-5
+155984,1,Lower Than A Level,0-35,60,Withdrawn,5-10
+157568,1,A Level or Equivalent,0-35,60,Pass,0-5
+159954,0,A Level or Equivalent,35-55,60,Withdrawn,11-15
+164259,0,A Level or Equivalent,0-35,60,Pass,16 or more
+167906,1,A Level or Equivalent,35-55,60,Pass,11-15
+168936,1,Lower Than A Level,35-55,60,Pass,5-10
+172112,0,HE Qualification,35-55,60,Pass,11-15
+172797,1,A Level or Equivalent,35-55,60,Pass,5-10
+174782,0,HE Qualification,55<=,60,Pass,16 or more
+175392,0,HE Qualification,35-55,60,Pass,11-15
+175932,0,HE Qualification,35-55,60,Pass,16 or more
+175991,1,A Level or Equivalent,0-35,180,Fail,11-15
+180753,0,A Level or Equivalent,0-35,120,Pass,11-15
+181316,1,A Level or Equivalent,35-55,120,Withdrawn,5-10
+183096,1,A Level or Equivalent,0-35,60,Pass,11-15
+183947,0,A Level or Equivalent,0-35,180,Pass,11-15
+184271,0,HE Qualification,35-55,170,Pass,0-5
+185439,0,HE Qualification,0-35,120,Fail,5-10
+186149,0,HE Qualification,35-55,60,Pass,5-10
+187100,0,A Level or Equivalent,35-55,60,Distinction,0-5
+188278,0,A Level or Equivalent,35-55,120,Withdrawn,11-15
+189879,0,A Level or Equivalent,0-35,120,Pass,5-10
+192183,1,Lower Than A Level,0-35,60,Pass,11-15
+195262,0,A Level or Equivalent,0-35,60,Withdrawn,16 or more
+200860,0,Lower Than A Level,35-55,60,Pass,16 or more
+202635,1,A Level or Equivalent,0-35,60,Withdrawn,5-10
+205350,0,HE Qualification,35-55,60,Pass,0-5
+205719,0,A Level or Equivalent,0-35,90,Fail,0-5
+227499,1,A Level or Equivalent,35-55,60,Distinction,0-5
+227517,0,HE Qualification,0-35,180,Fail,0-5
+228082,0,HE Qualification,0-35,60,Pass,5-10
+228222,0,Lower Than A Level,0-35,60,Pass,5-10
+229179,0,A Level or Equivalent,0-35,60,Pass,5-10
+229361,0,A Level or Equivalent,0-35,60,Pass,5-10
+231554,0,A Level or Equivalent,0-35,240,Pass,5-10
+235507,0,A Level or Equivalent,0-35,240,Withdrawn,5-10
+236284,0,Post Graduate Qualification,0-35,60,Pass,11-15
+238007,0,HE Qualification,55<=,60,Pass,0-5
+240712,0,HE Qualification,0-35,80,Pass,0-5
+240884,0,A Level or Equivalent,0-35,120,Pass,16 or more
+241649,0,HE Qualification,35-55,60,Pass,0-5
+241729,1,HE Qualification,35-55,60,Fail,0-5
+242793,0,HE Qualification,35-55,60,Pass,11-15
+246834,0,A Level or Equivalent,35-55,60,Pass,5-10
+248270,0,Lower Than A Level,0-35,90,Pass,0-5
+255548,0,Lower Than A Level,35-55,60,Pass,0-5
+256815,0,HE Qualification,0-35,120,Pass,0-5
+258392,1,Lower Than A Level,0-35,60,Pass,0-5
+258894,1,Lower Than A Level,35-55,60,Pass,11-15
+260355,1,A Level or Equivalent,35-55,60,Withdrawn,11-15
+262011,0,A Level or Equivalent,35-55,60,Pass,0-5
+262934,1,A Level or Equivalent,35-55,60,Pass,0-5
+268073,0,A Level or Equivalent,35-55,90,Fail,0-5
+268733,0,A Level or Equivalent,0-35,180,Withdrawn,11-15
+271251,0,A Level or Equivalent,35-55,60,Pass,5-10
+277880,1,A Level or Equivalent,0-35,60,Withdrawn,5-10
+279572,0,Lower Than A Level,0-35,60,Distinction,11-15
+281022,1,A Level or Equivalent,0-35,150,Pass,11-15
+281250,0,Lower Than A Level,35-55,60,Fail,5-10
+281589,0,HE Qualification,0-35,60,Fail,11-15
+282821,0,A Level or Equivalent,35-55,60,Pass,16 or more
+286488,0,A Level or Equivalent,35-55,60,Pass,5-10
+287548,0,A Level or Equivalent,0-35,120,Pass,16 or more
+290201,0,A Level or Equivalent,0-35,60,Pass,16 or more
+290757,0,A Level or Equivalent,0-35,60,Pass,0-5
+291334,0,A Level or Equivalent,35-55,60,Distinction,0-5
+292923,1,A Level or Equivalent,35-55,180,Withdrawn,5-10
+293699,0,A Level or Equivalent,0-35,120,Pass,11-15
+294570,0,HE Qualification,55<=,60,Pass,11-15
+294594,0,A Level or Equivalent,0-35,60,Pass,11-15
+295741,0,A Level or Equivalent,35-55,240,Fail,0-5
+296332,0,Post Graduate Qualification,55<=,60,Distinction,11-15
+298696,1,HE Qualification,0-35,60,Pass,5-10
+300398,0,A Level or Equivalent,35-55,60,Pass,16 or more
+302302,1,A Level or Equivalent,0-35,60,Fail,0-5
+305152,0,A Level or Equivalent,0-35,60,Fail,5-10
+305386,0,A Level or Equivalent,0-35,120,Pass,11-15
+305539,1,Lower Than A Level,0-35,120,Withdrawn,5-10
+306107,0,A Level or Equivalent,35-55,120,Pass,11-15
+306466,0,A Level or Equivalent,35-55,60,Pass,11-15
+306897,1,A Level or Equivalent,0-35,60,Pass,16 or more
+307061,1,HE Qualification,0-35,60,Pass,11-15
+307866,0,A Level or Equivalent,0-35,60,Pass,5-10
+311917,0,A Level or Equivalent,55<=,120,Pass,0-5
+312537,0,Post Graduate Qualification,55<=,60,Distinction,0-5
+312782,0,A Level or Equivalent,0-35,60,Pass,16 or more
+318933,1,HE Qualification,0-35,120,Pass,11-15
+319047,1,A Level or Equivalent,0-35,60,Pass,5-10
+321942,0,HE Qualification,55<=,60,Pass,0-5
+324002,0,HE Qualification,35-55,60,Pass,5-10
+324084,1,A Level or Equivalent,35-55,60,Pass,5-10
+324282,0,A Level or Equivalent,0-35,120,Pass,5-10
+331358,1,HE Qualification,35-55,60,Withdrawn,5-10
+332789,1,A Level or Equivalent,35-55,60,Pass,0-5
+333059,0,A Level or Equivalent,0-35,120,Pass,0-5
+333323,0,HE Qualification,0-35,60,Pass,16 or more
+334259,1,A Level or Equivalent,0-35,150,Fail,5-10
+334333,1,A Level or Equivalent,0-35,240,Withdrawn,11-15
+335764,1,A Level or Equivalent,0-35,60,Withdrawn,11-15
+336207,0,A Level or Equivalent,0-35,120,Pass,5-10
+339972,0,A Level or Equivalent,0-35,60,Pass,16 or more
+341872,0,Lower Than A Level,0-35,180,Fail,16 or more
+342007,1,HE Qualification,0-35,60,Withdrawn,16 or more
+342514,0,Lower Than A Level,55<=,60,Pass,16 or more
+342972,0,HE Qualification,0-35,60,Pass,11-15
+343446,0,HE Qualification,35-55,120,Pass,5-10
+344282,0,A Level or Equivalent,0-35,60,Fail,0-5
+345068,0,A Level or Equivalent,0-35,180,Pass,0-5
+345357,0,A Level or Equivalent,0-35,60,Distinction,16 or more
+346025,0,A Level or Equivalent,0-35,120,Pass,0-5
+346843,1,HE Qualification,35-55,120,Fail,16 or more
+350188,0,HE Qualification,35-55,60,Pass,16 or more
+354858,0,HE Qualification,35-55,120,Withdrawn,16 or more
+357668,0,A Level or Equivalent,0-35,60,Fail,0-5
+364177,0,Lower Than A Level,35-55,60,Fail,0-5
+365244,1,A Level or Equivalent,0-35,120,Pass,0-5
+365642,0,Lower Than A Level,35-55,60,Pass,0-5
+366483,0,HE Qualification,0-35,60,Pass,0-5
+368194,1,A Level or Equivalent,0-35,120,Pass,16 or more
+368824,0,HE Qualification,35-55,120,Fail,0-5
+368963,0,Lower Than A Level,0-35,180,Pass,11-15
+376439,0,HE Qualification,0-35,60,Distinction,5-10
+376581,1,A Level or Equivalent,35-55,60,Pass,0-5
+380953,0,A Level or Equivalent,0-35,60,Pass,11-15
+383254,0,A Level or Equivalent,0-35,120,Pass,16 or more
+386924,0,Lower Than A Level,0-35,120,Pass,5-10
+386952,0,A Level or Equivalent,0-35,120,Pass,0-5
+388722,1,Lower Than A Level,35-55,60,Pass,16 or more
+388885,0,A Level or Equivalent,35-55,60,Pass,0-5
+390890,0,A Level or Equivalent,0-35,90,Withdrawn,5-10
+392756,0,A Level or Equivalent,0-35,120,Fail,11-15
+392931,1,A Level or Equivalent,35-55,120,Pass,16 or more
+393207,0,A Level or Equivalent,0-35,60,Pass,16 or more
+396872,0,HE Qualification,0-35,180,Pass,0-5
+398552,0,Lower Than A Level,0-35,240,Fail,5-10
+401869,1,Lower Than A Level,0-35,60,Pass,5-10
+402470,0,Lower Than A Level,35-55,60,Pass,16 or more
+404804,0,Lower Than A Level,35-55,120,Pass,0-5
+405088,0,A Level or Equivalent,0-35,120,Pass,16 or more
+405961,0,A Level or Equivalent,0-35,240,Withdrawn,0-5
+414117,0,A Level or Equivalent,0-35,120,Pass,16 or more
+415969,0,HE Qualification,35-55,90,Withdrawn,0-5
+420087,0,A Level or Equivalent,0-35,60,Fail,16 or more
+429958,1,A Level or Equivalent,0-35,60,Pass,16 or more
+441018,1,A Level or Equivalent,0-35,150,Pass,5-10
+441888,0,A Level or Equivalent,0-35,120,Pass,16 or more
+442442,0,HE Qualification,0-35,120,Withdrawn,5-10
+444677,0,HE Qualification,0-35,60,Distinction,0-5
+470588,0,HE Qualification,35-55,60,Withdrawn,5-10
+489455,1,A Level or Equivalent,0-35,60,Pass,5-10
+494424,1,A Level or Equivalent,0-35,60,Fail,16 or more
+495284,0,HE Qualification,0-35,120,Pass,5-10
+498857,0,HE Qualification,35-55,60,Pass,0-5
+508818,0,A Level or Equivalent,0-35,120,Pass,11-15
+512460,0,HE Qualification,0-35,120,Pass,16 or more
+544103,0,HE Qualification,0-35,120,Pass,5-10
+550383,0,HE Qualification,0-35,60,Pass,0-5
+564450,0,HE Qualification,0-35,120,Fail,5-10
+568601,1,HE Qualification,0-35,60,Withdrawn,16 or more
+572652,0,HE Qualification,0-35,120,Pass,16 or more
+580389,0,HE Qualification,0-35,120,Pass,16 or more
+581129,0,A Level or Equivalent,0-35,120,Fail,16 or more
+588775,0,A Level or Equivalent,0-35,120,Pass,0-5
+591774,0,Post Graduate Qualification,35-55,60,Pass,0-5
+603861,0,HE Qualification,55<=,60,Withdrawn,16 or more
+606143,0,Post Graduate Qualification,35-55,60,Fail,11-15
+704156,0,HE Qualification,55<=,120,Pass,0-5
+705379,0,A Level or Equivalent,55<=,120,Distinction,0-5
+721259,1,Lower Than A Level,55<=,120,Withdrawn,5-10
+749412,0,Lower Than A Level,55<=,60,Pass,5-10
+760729,0,A Level or Equivalent,55<=,60,Distinction,0-5
+905042,1,A Level or Equivalent,35-55,60,Pass,16 or more
+949618,1,A Level or Equivalent,35-55,60,Pass,16 or more
+958987,0,HE Qualification,35-55,60,Pass,16 or more
+968578,1,A Level or Equivalent,35-55,60,Pass,0-5
+969076,0,A Level or Equivalent,35-55,180,Withdrawn,16 or more
+971027,1,HE Qualification,35-55,60,Pass,0-5
+978739,0,HE Qualification,35-55,60,Pass,16 or more
+1035023,1,Lower Than A Level,35-55,60,Pass,11-15
+1105478,0,HE Qualification,55<=,60,Pass,16 or more
+1352868,0,A Level or Equivalent,35-55,60,Withdrawn,5-10
+1401935,0,A Level or Equivalent,35-55,60,Fail,0-5
+1402638,1,HE Qualification,35-55,60,Pass,5-10
+1414443,1,A Level or Equivalent,35-55,120,Fail,5-10
+1456619,0,A Level or Equivalent,35-55,60,Withdrawn,16 or more
+1465690,0,HE Qualification,35-55,120,Pass,0-5
+1472925,1,Lower Than A Level,35-55,60,Fail,16 or more
+1488959,0,A Level or Equivalent,35-55,60,Pass,0-5
+1518989,1,Lower Than A Level,35-55,60,Pass,16 or more
+1618738,0,Lower Than A Level,35-55,60,Pass,11-15
+1620151,0,HE Qualification,35-55,60,Fail,16 or more
+1626710,0,A Level or Equivalent,35-55,60,Distinction,0-5
+1640609,0,A Level or Equivalent,35-55,60,Pass,0-5
+1686521,1,Lower Than A Level,35-55,60,Withdrawn,16 or more
+1729319,1,HE Qualification,35-55,60,Pass,5-10
+1746134,0,A Level or Equivalent,35-55,60,Pass,0-5
+1758449,0,Lower Than A Level,35-55,75,Withdrawn,0-5
+1763015,1,A Level or Equivalent,35-55,60,Withdrawn,0-5
+1765788,0,HE Qualification,55<=,60,Pass,0-5
+1801229,0,HE Qualification,35-55,60,Pass,11-15
+1801641,0,A Level or Equivalent,35-55,60,Pass,16 or more
+1847830,0,Lower Than A Level,35-55,60,Pass,16 or more
+1860318,0,Lower Than A Level,35-55,300,Pass,5-10
+1889511,0,A Level or Equivalent,35-55,60,Pass,5-10
+1889577,1,A Level or Equivalent,35-55,60,Pass,0-5
+1894188,1,A Level or Equivalent,0-35,60,Pass,16 or more
+1938355,0,A Level or Equivalent,35-55,60,Pass,0-5
+1942396,1,Lower Than A Level,35-55,120,Pass,16 or more
+1970390,0,Lower Than A Level,35-55,60,Withdrawn,11-15
+1976139,0,Lower Than A Level,35-55,120,Pass,16 or more
+2011876,1,A Level or Equivalent,0-35,60,Pass,11-15
+2012966,0,Lower Than A Level,35-55,60,Pass,5-10
+2051699,1,Lower Than A Level,35-55,60,Pass,5-10
+2062879,1,A Level or Equivalent,0-35,60,Fail,11-15
+2065691,0,A Level or Equivalent,35-55,330,Withdrawn,16 or more
+2073016,1,Lower Than A Level,35-55,60,Withdrawn,5-10
+2080474,1,A Level or Equivalent,35-55,60,Pass,0-5
+2083877,1,A Level or Equivalent,0-35,120,Pass,0-5
+2084066,1,Lower Than A Level,35-55,60,Fail,11-15
+2104505,0,Lower Than A Level,35-55,60,Pass,0-5
+2122180,1,Lower Than A Level,35-55,60,Distinction,0-5
+2139353,0,A Level or Equivalent,35-55,120,Withdrawn,16 or more
+2143752,1,Lower Than A Level,35-55,60,Pass,16 or more
+2146792,0,HE Qualification,55<=,60,Pass,0-5
+2149225,0,A Level or Equivalent,35-55,60,Withdrawn,0-5
+2153153,1,A Level or Equivalent,0-35,60,Pass,16 or more
+2155014,1,Lower Than A Level,0-35,60,Pass,16 or more
+2164705,1,A Level or Equivalent,0-35,120,Fail,11-15
+2171627,1,A Level or Equivalent,35-55,60,Pass,11-15
+2182846,1,A Level or Equivalent,35-55,60,Pass,5-10
+2194100,1,A Level or Equivalent,35-55,60,Pass,0-5
+2197016,1,HE Qualification,35-55,60,Pass,5-10
+2208424,0,A Level or Equivalent,0-35,60,Pass,0-5
+2229865,1,A Level or Equivalent,35-55,60,Pass,16 or more
+2255601,1,A Level or Equivalent,35-55,120,Withdrawn,11-15
+2268379,1,A Level or Equivalent,0-35,60,Pass,0-5
+2278464,0,Lower Than A Level,35-55,60,Pass,0-5
+2293923,0,A Level or Equivalent,0-35,150,Pass,16 or more
+2312620,1,HE Qualification,35-55,60,Withdrawn,0-5
+2318055,0,A Level or Equivalent,35-55,60,Withdrawn,0-5
+2324976,1,HE Qualification,35-55,60,Withdrawn,16 or more
+2329342,1,Lower Than A Level,35-55,120,Pass,5-10
+2339528,1,Lower Than A Level,0-35,60,Distinction,0-5
+2342426,0,Lower Than A Level,35-55,60,Fail,5-10
+2344901,1,A Level or Equivalent,0-35,60,Fail,11-15
+2358056,1,HE Qualification,0-35,60,Fail,16 or more
+2358969,1,A Level or Equivalent,0-35,180,Withdrawn,11-15
+2364471,1,HE Qualification,0-35,60,Pass,0-5
+2365101,0,HE Qualification,0-35,300,Withdrawn,5-10
+2367155,1,A Level or Equivalent,0-35,120,Pass,0-5
+2369266,1,Lower Than A Level,35-55,60,Pass,16 or more
+2376496,1,A Level or Equivalent,0-35,120,Pass,5-10
+2391984,0,A Level or Equivalent,0-35,60,Withdrawn,0-5
+2411661,1,A Level or Equivalent,0-35,120,Fail,5-10
+2411778,0,HE Qualification,0-35,120,Withdrawn,11-15
+2412002,0,Lower Than A Level,35-55,90,Distinction,16 or more
+2412967,1,A Level or Equivalent,35-55,60,Pass,5-10
+2429854,0,A Level or Equivalent,35-55,120,Withdrawn,5-10
+2437837,1,A Level or Equivalent,0-35,60,Pass,0-5
+2449878,1,A Level or Equivalent,0-35,60,Pass,16 or more
+2456480,0,Lower Than A Level,35-55,120,Fail,11-15
+2457256,0,Lower Than A Level,35-55,180,Pass,5-10
+2458355,0,Lower Than A Level,35-55,60,Pass,0-5
+2460080,0,HE Qualification,55<=,60,Pass,11-15
+2461190,0,HE Qualification,55<=,60,Fail,16 or more
+2469673,1,Lower Than A Level,35-55,60,Fail,0-5
+2470694,1,HE Qualification,55<=,60,Withdrawn,5-10
+2479954,0,A Level or Equivalent,0-35,60,Pass,11-15
+2481901,0,Lower Than A Level,35-55,60,Pass,16 or more
+2482700,0,Lower Than A Level,0-35,120,Pass,11-15
+2486127,1,HE Qualification,0-35,120,Pass,11-15
+2498700,1,Lower Than A Level,0-35,240,Pass,16 or more
+2516503,0,HE Qualification,35-55,60,Pass,11-15
+2518069,0,A Level or Equivalent,0-35,60,Pass,0-5
+2521459,1,Lower Than A Level,0-35,60,Pass,0-5
+2523736,0,A Level or Equivalent,55<=,120,Pass,16 or more
+2529279,1,HE Qualification,35-55,60,Pass,16 or more
+2532302,1,A Level or Equivalent,0-35,60,Pass,16 or more
+2536991,0,HE Qualification,55<=,60,Distinction,5-10
+2542724,1,Lower Than A Level,0-35,60,Withdrawn,5-10
+2550279,1,HE Qualification,35-55,60,Pass,11-15
+2551220,1,Lower Than A Level,0-35,60,Pass,11-15
+2552472,1,HE Qualification,35-55,120,Withdrawn,0-5
+2555340,1,HE Qualification,35-55,60,Pass,0-5
+2557283,0,HE Qualification,55<=,60,Pass,5-10
+2559575,0,Lower Than A Level,0-35,60,Pass,11-15
+2562034,0,A Level or Equivalent,0-35,60,Pass,11-15
+2566163,1,A Level or Equivalent,0-35,60,Pass,0-5
+2566592,1,A Level or Equivalent,35-55,60,Pass,5-10
+2569324,0,A Level or Equivalent,0-35,120,Withdrawn,0-5
+2574528,0,HE Qualification,35-55,60,Pass,5-10
+2574583,0,Lower Than A Level,35-55,60,Pass,11-15
+2576122,0,A Level or Equivalent,0-35,60,Withdrawn,16 or more
+2578995,1,A Level or Equivalent,0-35,60,Pass,11-15
+2586560,1,Lower Than A Level,35-55,60,Pass,0-5
+2594139,1,A Level or Equivalent,0-35,60,Pass,5-10
+2598871,1,A Level or Equivalent,35-55,60,Pass,16 or more
+2599352,1,A Level or Equivalent,0-35,120,Pass,16 or more
+2600688,0,A Level or Equivalent,0-35,60,Pass,11-15
+2606098,1,A Level or Equivalent,0-35,60,Pass,16 or more
+2613116,1,Lower Than A Level,35-55,60,Pass,5-10
+2617002,1,A Level or Equivalent,0-35,60,Pass,16 or more
+2620584,0,A Level or Equivalent,0-35,60,Fail,16 or more
+2639449,0,A Level or Equivalent,0-35,120,Pass,16 or more
+2639540,1,A Level or Equivalent,35-55,60,Pass,0-5
+2639641,0,Lower Than A Level,35-55,120,Pass,5-10
+2641155,0,Lower Than A Level,35-55,60,Pass,11-15
+2643002,1,A Level or Equivalent,35-55,60,Pass,0-5
+2645733,1,A Level or Equivalent,0-35,180,Pass,0-5
+2649826,0,Lower Than A Level,35-55,60,Distinction,11-15
+2650282,0,A Level or Equivalent,35-55,60,Pass,0-5
+2664024,0,HE Qualification,35-55,60,Pass,16 or more
+2666246,0,A Level or Equivalent,0-35,60,Pass,5-10
+2669816,0,A Level or Equivalent,0-35,60,Fail,11-15
+2671132,0,HE Qualification,55<=,60,Pass,0-5
+2676809,1,HE Qualification,0-35,150,Fail,16 or more
+2678643,1,A Level or Equivalent,0-35,60,Pass,5-10
+2685865,1,Lower Than A Level,0-35,60,Pass,0-5
+2688067,0,A Level or Equivalent,0-35,60,Pass,0-5
+2689958,0,A Level or Equivalent,35-55,60,Distinction,11-15
+2691206,1,A Level or Equivalent,0-35,60,Distinction,16 or more
+2691244,0,A Level or Equivalent,35-55,180,Pass,16 or more
+2694424,0,A Level or Equivalent,35-55,120,Pass,0-5
+2698257,0,Lower Than A Level,0-35,120,Pass,11-15
